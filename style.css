@@ -6,9 +6,13 @@
 .card > img {
     width: 100%;
     border-radius: 25px;
+    cursor: pointer;
 }
 
 .card > .description {
     text-align: center;
+}
+
+.hidden {
     display: none;
 }
